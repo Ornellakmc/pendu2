@@ -6,9 +6,9 @@ Bienvenue dans le **jeu du pendu** ! Le but est simple : deviner un mot caché, 
 
 ## 📝 **Fonctionnalités principales**
 
-* **Mot aléatoire** : Le jeu choisit un mot au hasard parmi une liste prédéfinie.
-* **Affichage dynamique** : Le mot à deviner est affiché avec des lettres masquées (`*`), et les lettres correctement devinées sont révélées progressivement.
-* **Proposition de lettres** : Vous proposez une lettre à chaque tour.
+* **Mot aléatoire** :le jeu choisit un mot au hasard parmi une liste prédéfinie.
+* **Affichage dynamique** :le mot à deviner est affiché avec des lettres masquées (`*`), et les lettres correctement devinées sont révélées progressivement.
+* **Proposition de lettres** :vous proposez une lettre à chaque tour.
 
   * ✅ Si la lettre est correcte, toutes ses occurrences dans le mot sont révélées.
   * ❌ Si la lettre est incorrecte, une partie du pendu est dessinée.
